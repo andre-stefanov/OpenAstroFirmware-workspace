@@ -1,2 +1,8 @@
+# Ignore Python bytecode files
 .venv/
+
+# generated compile commands
 .vscode/compile_commands.json
+
+# Ignore zephyr modules
+modules/*
