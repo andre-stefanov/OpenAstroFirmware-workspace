@@ -5,9 +5,8 @@
       "name": "app",
       "buildConfigs": {
         "build/robin_nano": {
-          "relBoardDir": "OpenAstroFirmware/boards",
           "board": "robin_nano",
-          "relBoardSubDir": "mks/robin_nano",
+          "relBoardSubDir": "../../OpenAstroFirmware/boards/mks/robin_nano",
           "name": "build/robin_nano",
           "westBuildArgs": "",
           "westBuildCMakeArgs": " -DCONFIG_DEBUG_OPTIMIZATIONS=y -DCONFIG_DEBUG_THREAD_INFO=y ",

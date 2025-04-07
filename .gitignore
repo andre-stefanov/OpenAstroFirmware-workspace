@@ -6,3 +6,6 @@
 
 # Ignore zephyr modules
 modules/*
+
+# Generated west configuration files
+.west/
