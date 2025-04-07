@@ -20,5 +20,6 @@
 			"**/.git/objects/**": true,
 			"**/.git/subtree-cache/**": true,
 		},
+		"devicetree.zephyr": "${workspaceFolder}/zephyr",
 	}
 }
