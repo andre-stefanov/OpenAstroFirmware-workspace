@@ -4,6 +4,9 @@
     "cmake.configureOnOpen": false,
     "zephyr-ide.use-zephyr-ide-json": true,
     "zephyr-ide.projects": null,
+    "git.scanRepositories": [
+        "${workspaceFolder}/OpenAstroFirmware",
+    ],
     "git.ignoredRepositories": [
         "${workspaceFolder}/zephyr",
         "${workspaceFolder}/modules/*"
