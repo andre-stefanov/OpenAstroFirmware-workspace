@@ -1,0 +1,3 @@
+[submodule "OpenAstroFirmware"]
+	path = OpenAstroFirmware
+	url = https://github.com/andre-stefanov/OpenAstroFirmware

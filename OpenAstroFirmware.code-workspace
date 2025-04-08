@@ -17,17 +17,9 @@
 			"**/.git/objects/**": true,
 			"**/.git/subtree-cache/**": true
 		},
-		"git.ignoredRepositories": [
-			"zephyr"
-		],
-		"git.repositoryScanIgnoredFolders": [
-			"zephyr"
-		],
-		"git.scanRepositories": [
-			"OpenAstroFirmware",
-		],
 		"terminal.integrated.defaultProfile.linux": "Zephyr IDE Terminal",
 		"zephyr-ide.projects": null,
 		"zephyr-ide.use-zephyr-ide-json": true,
+		"git.autoRepositoryDetection": false,
 	}
 }
